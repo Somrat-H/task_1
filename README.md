@@ -1,16 +1,18 @@
-# task_1
 
-A new Flutter project.
+# Task Management App Ui
 
-## Getting Started
+This is simple Smart Home UI.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
+![385560519_1342624809955078_7848909787175029143_n](https://github.com/Somrat-H/task_1/assets/88571561/bdc30de8-f052-4722-ad58-c59e67e25bf0)
+![387494439_1400767417528554_7298620951727248827_n](https://github.com/Somrat-H/task_1/assets/88571561/be815df7-d74f-441e-aa13-444054f17b76)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+## Authors
+
+- [@Somrat-H](https://www.github.com/Somrat-H)
+
